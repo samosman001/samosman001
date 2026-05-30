@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samosman001
-- 👀 I’m interested in Computer Engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
 
