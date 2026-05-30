@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samosman001
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ projects
+- 🌱 I’m currently learning AWS
 
 <!---
 samosman001/samosman001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
